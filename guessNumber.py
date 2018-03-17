@@ -12,7 +12,6 @@ You call a pre-defined API guess(int num) which returns 3 possible results (-1, 
  0 : Congrats! You got it!
 Example:
 n = 10, I pick 6.
-
 Return 6.
 '''
 """
