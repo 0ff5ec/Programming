@@ -15,8 +15,8 @@ class Solution(object):
     def sortColors(self, nums):
         l = len(nums)
         red = nums.count(0)
-        blue = nums.count(2)
         white = nums.count(1)
+	blue = nums.count(2)
         i = 0
         while i < red:
             nums[i] = 0
