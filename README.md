@@ -7,4 +7,4 @@ I am constantly putting more and more problems to this repo, but due to very lim
 
 Right now due to time limitation, the language is mostly python; later on you will see versions in C++, Java and Go as well.
 ---------------------------------------------------------------------------
-Please contact @offsec.akash@gmail.com if you have any questions/queries.
+Please contact @offsec.akash@gmail.com if you have any questions/queries. I will be adding more questions now on a regular basis. 
